@@ -14,7 +14,9 @@ function2 x = x+2
 
 function3 (x,y) = x*y 
 
-f4 x = x+3
+f4 x = x+5
+
+
 
 
 
