@@ -16,6 +16,11 @@ function3 (x,y) = x*y
 
 f4 x = x+5
 
+f5 x = x^3
+
+f6 y = y^2
+
+
 
 
 
